@@ -1,0 +1,2 @@
+Error: Could not find or load main class com.soin.firmaDigital.Server
+Caused by: java.lang.ClassNotFoundException: com.soin.firmaDigital.Server
